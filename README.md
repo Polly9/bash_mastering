@@ -22,3 +22,4 @@ AtCoder過去問をbashシェルスクリプトで回答してみる
 | 13  | m.sh   | https://atcoder.jp/contests/abc093/tasks/abc093_b        |
 | 14  | n.sh   | https://atcoder.jp/contests/abc158/tasks/abc158_c        |
 | 15  | o.sh   | https://atcoder.jp/contests/abc068/tasks/abc068_b        |
+| 16  | p.sh   | https://atcoder.jp/contests/abc090/tasks/abc090_b        |
