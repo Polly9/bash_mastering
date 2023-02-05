@@ -24,3 +24,4 @@ AtCoder過去問をbashシェルスクリプトで回答してみる
 | 15  | o.sh   | https://atcoder.jp/contests/abc068/tasks/abc068_b        |
 | 16  | p.sh   | https://atcoder.jp/contests/abc090/tasks/abc090_b        |
 | 17  | q.sh   | https://atcoder.jp/contests/abc220/tasks/abc220_b        |
+| 18  | r.sh   | https://atcoder.jp/contests/typical90/tasks/typical90_bo |
