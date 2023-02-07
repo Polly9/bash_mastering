@@ -5,7 +5,6 @@ D=${arr[1]}
 Matrix=()
 for ((i=1; i<= ${N}; i++))
 do
-    tmp=()
     read matrix
     arr=(${matrix})
     Matrix+=(${arr[@]})
