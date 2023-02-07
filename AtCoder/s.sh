@@ -2,7 +2,6 @@ read input
 arr=(${input})
 N=${arr[0]}
 D=${arr[1]}
-A=()
 Matrix=()
 for ((i=1; i<= ${N}; i++))
 do
