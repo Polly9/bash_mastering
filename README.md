@@ -26,3 +26,4 @@ AtCoder過去問をbashシェルスクリプトで回答してみる
 | 17  | q.sh   | https://atcoder.jp/contests/abc220/tasks/abc220_b        |                   |
 | 18  | r.sh   | https://atcoder.jp/contests/typical90/tasks/typical90_bo |                   |
 | 19  | s.sh   | https://atcoder.jp/contests/abc174/tasks/abc174_b        | 多重配列          |
+| 20  | t.sh   | https://atcoder.jp/contests/abc130/tasks/abc130_b        |                   |
