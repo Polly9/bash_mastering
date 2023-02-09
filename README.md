@@ -28,3 +28,4 @@ AtCoder過去問をbashシェルスクリプトで回答してみる
 | 19  | s.sh   | https://atcoder.jp/contests/abc174/tasks/abc174_b        | 多重配列          |
 | 20  | t.sh   | https://atcoder.jp/contests/abc130/tasks/abc130_b        |                   |
 | 21  | u.sh   | https://atcoder.jp/contests/abc095/tasks/abc095_b        | 配列の和, 最小値  |
+| 22  | v.sh   | https://atcoder.jp/contests/abc124/tasks/abc124_b        |                   |
