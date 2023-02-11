@@ -30,3 +30,4 @@ AtCoder過去問をbashシェルスクリプトで回答してみる
 | 21  | u.sh   | https://atcoder.jp/contests/abc095/tasks/abc095_b        | 配列の和, 最小値  |
 | 22  | v.sh   | https://atcoder.jp/contests/abc124/tasks/abc124_b        |                   |
 | 23  | w.sh   | https://atcoder.jp/contests/abc201/tasks/abc201_b        |                   |
+| 24  | x.sh   | https://atcoder.jp/contests/abc113/tasks/abc113_b        |                   |
