@@ -31,3 +31,4 @@ AtCoder過去問をbashシェルスクリプトで回答してみる
 | 22  | v.sh   | https://atcoder.jp/contests/abc124/tasks/abc124_b        |                       |
 | 23  | w.sh   | https://atcoder.jp/contests/abc201/tasks/abc201_b        |                       |
 | 24  | x.sh   | https://atcoder.jp/contests/abc113/tasks/abc113_b        | 変数の絶対値を取る    |
+| 25  | y.sh   | https://atcoder.jp/contests/abc205/tasks/abc205_b        | 配列に要素があるか判定|
