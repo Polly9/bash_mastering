@@ -34,3 +34,4 @@ AtCoder過去問をbashシェルスクリプトで回答してみる
 | 25  | y.sh   | https://atcoder.jp/contests/abc205/tasks/abc205_b        | 配列に要素があるか判定|
 | 26  | z.sh   | https://atcoder.jp/contests/abc067/tasks/abc067_b        | 配列要素削除unset     |
 | 27  | aa.sh  | https://atcoder.jp/contests/abc132/tasks/abc132_c        | 配列の最小値を取る　　|
+| 28  | ab.sh  | https://atcoder.jp/contests/abc115/tasks/abc115_c        | クイックソート        |
